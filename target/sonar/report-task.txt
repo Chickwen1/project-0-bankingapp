@@ -1,0 +1,7 @@
+organization=chickwen1-github
+projectKey=demo-project98347597
+serverUrl=https://sonarcloud.io
+serverVersion=7.9.0.26601
+dashboardUrl=https://sonarcloud.io/dashboard?id=demo-project98347597
+ceTaskId=AWuvFfouTPhXlxRtn3xy
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWuvFfouTPhXlxRtn3xy
